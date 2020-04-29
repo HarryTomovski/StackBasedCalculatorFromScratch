@@ -1,2 +1,2 @@
 Assigment Algorithms and Data Structures.
-A simple linkedList based stack using nodes.
+A simple linked list based stack using nodes.
