@@ -1,0 +1,13 @@
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.exe
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.deps.json
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.runtimeconfig.json
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.runtimeconfig.dev.json
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.dll
+E:\DNP\Stack\bin\Debug\netcoreapp3.1\StackUsinLinkedList.pdb
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.csprojAssemblyReference.cache
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.AssemblyInfoInputs.cache
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.AssemblyInfo.cs
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.dll
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.pdb
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.csproj.CoreCompileInputs.cache
+E:\DNP\Stack\obj\Debug\netcoreapp3.1\StackUsinLinkedList.genruntimeconfig.cache
